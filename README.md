@@ -9,4 +9,4 @@ This is a simple voice assistance Which I made in python. This simply satisfies 
 </ul>
 <li> Here is a tutorial of this Project (Click On Image)</li>
 
-<a href="https://www.youtube.com/watch?v=Lp9Ftuq2sVI&t=4s&ab_channel=CodeWithHarry"> <img src="https://gcn.com/-/media/GIG/GCN/Redesign/Articles/2019/December/voicerecogntionpolice.jpg" width = 300px> </a>
+<a href="https://www.youtube.com/watch?v=Lp9Ftuq2sVI&t=4s&ab_channel=CodeWithHarry"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBaCQr5GNCTARCs0l0FM65FQQj8OTz0ctsmL9Pgt5hYw&s" width = 300px> </a>
